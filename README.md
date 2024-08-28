@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vitulion" target="blank" rel="external"><img src="https://img.shields.io/twitter/follow/vitulion?logo=twitter&style=for-the-badge" alt="vitulion" /></a> </p>
 
-- 🌱 I’m currently learning **REACTJS**
+- 🌱 I’m currently learning **FLUTTER**
 
 - 📫 How to reach me **vitolelo21@gmail.com**
 
